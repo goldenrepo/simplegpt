@@ -10,6 +10,20 @@ body{
     background-color: #6e90b3;
 }
 
+a {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    text-decoration: underline;
+
+    
+
+    border: 1px solid #ccc;
+    padding: 10px;
+
+
+  }
+
 .container {
     background-color: #6e90b3;
     max-width: 80%;
